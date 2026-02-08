@@ -1,0 +1,7 @@
+# requirements.txt
+httpx>=0.24.0
+tqdm>=4.66.0
+moviepy>=1.0.3
+numpy>=1.24.0
+Pillow>=9.0.0  # Required by moviepy
+decorator>=5.0.0  # Required by moviepy
